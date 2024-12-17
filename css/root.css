@@ -1,0 +1,20 @@
+:root {
+
+  --bg-color-light: #e1e0db;
+  --bg-color-dark: #3a3a46;
+  --bg-color-btn: #ffc222;
+  --background-header-top: #303030;
+  --index: calc(1vw + 1vh);
+
+  --banner-color: #53cce1;
+  --title-color: #dedede;
+  --title-color-blue: #558aab;
+
+  --section-title-dark: #5383a3;
+  --section-title-light: #dadada;
+
+  --text-color: #303030;
+  --text-color-light: #e0dfd9;
+  /* --text-description: #dddcd2; */
+  --properties-text-color: #7e0004;
+}
